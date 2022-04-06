@@ -1,0 +1,32 @@
+*{
+	background-color: #ad5489;
+}
+
+body{
+	font-family: 'Fredoka', sans-serif;
+	color: white;
+}
+
+h2{
+	text-align: center;
+}
+
+
+.formulario {
+	margin: 20px;
+	font-size: 19px;
+	text-align: center;	
+}
+
+#valor{
+	font-size: 19px;
+	border: none;
+	background-color: white;
+	color: black;
+}
+
+#cotizador{
+	height: 25px;
+	background-color: white;
+	color: black;
+}
